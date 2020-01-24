@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div>aa
 <el-button type="info" @click="logout">退出</el-button>
     </div>
 </template>
@@ -11,6 +11,6 @@ export default {
 }}
 }
 </script>
-<style >
+<style>
 
 </style>
